@@ -7,6 +7,8 @@ git clone https://github.com/aronei44/todo-with-fastapi.git project
 cd project
 ```
 
+change your database information in setting.py
+
 # Running
 
 ```
